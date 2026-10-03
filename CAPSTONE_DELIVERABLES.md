@@ -1,9 +1,12 @@
 # Enterprise Architecture Capstone Deliverables
 **Scalable Enterprise Architectural Deployments of Agentic AI Solutions**
 
-**Author / Candidate**: Rohini C G (`2023103530-Rohini_C_G`)  
-**Repository**: [https://github.com/Rohini-Gopi/2023103530-Rohini_C_G](https://github.com/Rohini-Gopi/2023103530-Rohini_C_G)  
-**Standard**: IEEE 42010 / TOGAF Architecture Description Standard  
+**Student Name**: Rohini C G  
+**Roll Number**: 2023103530  
+**Project Title**: TodoAgent – Scalable Enterprise Agentic AI Task & Prioritization Platform  
+**GitHub Repository**: https://github.com/Rohini-Gopi/2023103530-Rohini_C_G  
+**Live URL**: https://ais-pre-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app  
+**Framework**: React 19, TypeScript, Tailwind CSS, Node.js + Express, PostgreSQL / Redis, Gemini AI  
 **Document Ref**: ARCH-CAPSTONE-34  
 
 ---

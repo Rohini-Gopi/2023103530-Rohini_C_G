@@ -1,15 +1,17 @@
-# Deployment Links & Production Access Information
+# Deployment Link & Project Submission
 
-**Candidate Name**: Rohini C G  
-**Registration / ID**: `2023103530-Rohini_C_G`  
-**Email**: `cgrohini0607@gmail.com`  
-**GitHub Repository**: [https://github.com/Rohini-Gopi/2023103530-Rohini_C_G](https://github.com/Rohini-Gopi/2023103530-Rohini_C_G)  
+**Student Name**: Rohini C G  
+**Roll Number**: 2023103530  
+**Project Title**: TodoAgent – Scalable Enterprise Agentic AI Task & Prioritization Platform  
+**GitHub Repository**: https://github.com/Rohini-Gopi/2023103530-Rohini_C_G  
+**Live URL**: https://ais-pre-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app  
+**Framework**: React 19, TypeScript, Tailwind CSS, Node.js + Express, PostgreSQL / Redis, Gemini AI  
 
 ---
 
 ## 🌐 Live Application Deployment URLs
 
-| Environment | URL | Status | Description |
+| Environment | Live URL | Status | Description |
 |---|---|---|---|
 | **Production / Preview App** | [https://ais-pre-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app](https://ais-pre-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app) | 🟢 Active | Live Cloud Run Production Deployment |
 | **Development App** | [https://ais-dev-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app](https://ais-dev-o4qxdb7f6e34qf272cw3xc-41732091824.asia-southeast1.run.app) | 🟢 Active | Live Cloud Run Development Environment |
